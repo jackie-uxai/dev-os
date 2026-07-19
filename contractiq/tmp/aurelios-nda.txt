@@ -1,0 +1,138 @@
+MUTUAL NON-DISCLOSURE
+AGREEMENT
+Effective Date: 12 February 2024
+This Mutual Non-Disclosure Agreement (“Agreement”) is entered into as of the
+Effective Date by and between:
+Aurelios Systems Inc., a corporation organized under the laws of Delaware with its
+principal office at 427 Whitlock Plaza, Wilmington, DE 19803 (“Party A”),
+and
+Maridian Analytics LLP, a limited liability partnership organized under the laws of New
+York with its principal office at 55 Harborview Circle, Brooklyn, NY 11231 (“Party B”).
+Each of Party A and Party B may be referred to individually as a “Party” and collectively
+as the “Parties.”
+1. Purpose
+The Parties intend to engage in discussions and exchange information relating to
+potential commercial cooperation, technology integration, market evaluation, or other
+mutually beneficial initiatives (the “Purpose”).
+The exchange of confidential information is necessary for the Parties to evaluate or
+further the Purpose.
+2. Mutual Confidentiality Obligations
+This Agreement imposes mutual confidentiality obligations. Each Party may disclose
+Confidential Information to the other, and each Party agrees to protect such information
+in accordance with this Agreement.
+
+3. Definition of Confidential Information
+“Confidential Information” means any non-public, proprietary, technical, business,
+financial, operational, strategic, legal, or commercial information disclosed by a Party
+(“Disclosing Party”) to the other Party (“Receiving Party”), whether orally, visually, in
+writing, or in electronic form, that:
+a. is marked or identified as confidential; or
+b. should reasonably be understood to be confidential based on the nature of the
+information or the circumstances of disclosure.
+Confidential Information includes, without limitation:
+● product roadmaps, source code, APIs, system designs
+● customer lists, pricing, business plans
+● research data, algorithms, workflows
+● contracts, financial statements, and projections
+● third-party confidential information in the Disclosing Party’s possession
+4. Exclusions
+Confidential Information does not include information that the Receiving Party can
+demonstrate:
+a. is or becomes publicly available through no breach of this Agreement;
+b. was lawfully known to the Receiving Party prior to receipt from the Disclosing Party;
+c. is independently developed without use of, or reference to, the Confidential
+Information; or
+d. is obtained lawfully from a third party without breach of any confidentiality obligation.
+
+5. Obligations of the Receiving Party
+The Receiving Party shall:
+a. use Confidential Information solely to evaluate or further the Purpose;
+b. protect the Confidential Information using at least the same degree of care it uses for
+its own confidential information (and no less than reasonable care);
+c. restrict disclosure solely to those employees, contractors, and professional advisers
+who have a strict need to know for the Purpose;
+d. ensure such recipients are bound by confidentiality obligations no less protective
+than those in this Agreement; and
+e. not copy, reverse engineer, disassemble, or create derivative works from Confidential
+Information except as permitted by the Purpose.
+6. Permitted Disclosures
+The Receiving Party may disclose Confidential Information:
+a. to its employees, directors, contractors, accountants, auditors, financial advisors, or
+legal counsel, provided they are bound by obligations of confidentiality at least as
+stringent as this Agreement;
+b. when required by law, regulation, or court order, provided that the Receiving Party
+gives prompt notice to the Disclosing Party (to the extent legally permitted) to allow it to
+seek protective measures;
+c. to its potential investors, financing partners, or acquirers under confidentiality
+obligations at least as protective as this Agreement.
+7. Confidentiality Period
+Confidentiality obligations survive for five (5) years from the date of each disclosure.
+
+8. Information Disclosed Before and
+After the Effective Date
+This Agreement applies to Confidential Information disclosed before, on, or after the
+Effective Date.
+9. Third-Party Information
+Confidential or proprietary information of third parties disclosed by the Disclosing Party
+shall be treated as Confidential Information under this Agreement.
+10. Return or Deletion
+Upon the Disclosing Party’s written request or termination of this Agreement, the
+Receiving Party shall, within a reasonable time:
+a. return or destroy all Confidential Information;
+b. delete all electronic records containing Confidential Information; and
+c. certify such destruction in writing upon request.
+Receiving Party may retain archival copies solely for regulatory compliance or
+dispute-resolution purposes.
+
+11. No Licenses or Intellectual Property
+Rights
+Nothing in this Agreement grants the Receiving Party any rights or licenses in or to the
+Disclosing Party’s intellectual property, except for the limited right to use the Confidential
+Information strictly for the Purpose.
+12. No Warranty
+All Confidential Information is provided “as is”, without any warranties, express or
+implied, including warranties of accuracy, completeness, fitness for a particular purpose,
+or non-infringement.
+13. Remedies
+The Parties acknowledge that unauthorized disclosure or misuse of Confidential
+Information may cause irreparable harm for which monetary damages may be
+inadequate. The Disclosing Party may seek injunctive relief, specific performance, or
+other equitable remedies in addition to any legal remedies available.
+14. No Partnership or Agency
+Nothing in this Agreement creates any joint venture, partnership, employment, fiduciary,
+or agency relationship between the Parties.
+
+15. Term and Termination
+This Agreement commences on the Effective Date and continues until terminated by
+either Party upon thirty (30) days’ written notice.
+Termination does not relieve either Party of obligations regarding Confidential
+Information disclosed prior to termination.
+16. No Abnormal Restrictions
+This Agreement does not impose non-competition, exclusivity, or non-solicitation
+obligations unless expressly agreed in a separate written contract.
+17. Assignment
+Neither Party may assign or transfer this Agreement without the prior written consent of
+the other Party, except to an affiliate or to a successor entity in connection with a
+merger, acquisition, or sale of substantially all assets.
+18. Governing Law
+This Agreement shall be governed by and construed in accordance with the laws of the
+State of Delaware, without regard to its conflicts-of-laws principles.
+19. Amendments
+Any amendment or modification of this Agreement must be in writing and signed by both
+Parties.
+
+20. Entire Agreement
+This Agreement constitutes the entire agreement between the Parties regarding
+treatment of Confidential Information and supersedes all prior oral or written
+agreements concerning confidentiality.
+SIGNATURES
+Aurelios Systems Inc.
+By: _______________________________
+Name: _____________________________
+Title: ______________________________
+Date: ______________________________
+Maridian Analytics LLP
+By: _______________________________
+Name: _____________________________
+Title: ______________________________
+Date: ______________________________

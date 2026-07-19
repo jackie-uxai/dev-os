@@ -1,0 +1,42 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-color: #f8fafc;
+  color: #0f172a;
+}
+
+::selection {
+  background-color: #aaccd6;
+}
+
+/* Temporary highlight applied to the document viewer's target page on
+   key-term / chat-citation navigation. See document-viewer.md. */
+.page-highlight {
+  outline: 2px solid #112e81;
+  outline-offset: 4px;
+  border-radius: 8px;
+  transition: outline-color 150ms ease-out;
+}
+
+/* react-pdf text/annotation layers need explicit sizing so selection and
+   links line up with the rendered canvas. */
+.react-pdf__Page {
+  margin-bottom: 16px;
+}
+
+.react-pdf__Page__textContent,
+.react-pdf__Page__annotations {
+  border: 1px solid #e2e8f0;
+}

@@ -1,0 +1,35 @@
+
+> contractiq@0.1.0 start
+> next start
+
+  ▲ Next.js 14.2.35
+  - Local:        http://localhost:3005
+
+ ✓ Starting...
+ ✓ Ready in 102ms
+api/contracts upload: {
+  fileName: 'Aurelios System NDA 1.pdf',
+  fileType: 'application/pdf',
+  fileSize: 89491
+}
+api/contracts parse failure: {
+  fileName: 'Aurelios System NDA 1.pdf',
+  fileType: 'application/pdf',
+  fileSize: 89491,
+  error: `Error: Setting up fake worker failed: "Cannot find module '/Users/jackie/AI Projects/active/bootcamp-2026-07-04/dev-os/contractiq/.next/server/chunks/pdf.worker.mjs' imported from /Users/jackie/AI Projects/active/bootcamp-2026-07-04/dev-os/contractiq/.next/server/chunks/325.js".\n` +
+    '    at /Users/jackie/AI Projects/active/bootcamp-2026-07-04/dev-os/contractiq/.next/server/chunks/325.js:2:213793\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)'
+}
+api/contracts upload: {
+  fileName: 'Aurelios System NDA 1.pdf',
+  fileType: 'application/pdf',
+  fileSize: 89491
+}
+api/contracts parse failure: {
+  fileName: 'Aurelios System NDA 1.pdf',
+  fileType: 'application/pdf',
+  fileSize: 89491,
+  error: `Error: Setting up fake worker failed: "Cannot find module '/Users/jackie/AI Projects/active/bootcamp-2026-07-04/dev-os/contractiq/.next/server/chunks/pdf.worker.mjs' imported from /Users/jackie/AI Projects/active/bootcamp-2026-07-04/dev-os/contractiq/.next/server/chunks/325.js".\n` +
+    '    at /Users/jackie/AI Projects/active/bootcamp-2026-07-04/dev-os/contractiq/.next/server/chunks/325.js:2:213793\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)'
+}

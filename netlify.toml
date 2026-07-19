@@ -1,0 +1,16 @@
+## Netlify config: build the contractiq subfolder
+
+[build]
+  # Build in the contractiq subdirectory where the Next app lives
+  base = "contractiq"
+  # Publish the Next.js server build output
+  publish = "contractiq/.next"
+  # Use the project's build script
+  command = "npm run build"
+
+## Set production environment variables in the Netlify UI (do not commit secrets)
+[context.production.environment]
+# NEXT_PUBLIC_SUPABASE_URL = "https://..."
+# NEXT_PUBLIC_SUPABASE_ANON_KEY = "..."
+# SUPABASE_SERVICE_ROLE_KEY = "..."
+# OPENAI_API_KEY = "..."

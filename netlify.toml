@@ -3,8 +3,8 @@
 [build]
   # Build in the contractiq subdirectory where the Next app lives
   base = "contractiq"
-  # Publish the Next.js server build output
-  publish = "contractiq/.next"
+  # Publish path is relative to `base`
+  publish = ".next"
   # Use the project's build script
   command = "npm run build"
 

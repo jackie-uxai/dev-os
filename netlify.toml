@@ -3,10 +3,11 @@
 [build]
   # Build in the contractiq subdirectory where the Next app lives
   base = "contractiq"
-  # Publish path is relative to `base`
-  publish = ".next"
   # Use the project's build script
   command = "npm run build"
+
+[[plugins]]
+  package = "@netlify/plugin-nextjs"
 
 ## Set production environment variables in the Netlify UI (do not commit secrets)
 [context.production.environment]
